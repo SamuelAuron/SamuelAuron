@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, me chamo Samuel Dutra    👋
+Bem vindo ao meu perfil GitHub 👋
+
+Hello! Welcome to my Github profile.👋 
+My name is Samuel Dutra and my nickname is Auron!
 
 <!--
 **SamuelAuron/SamuelAuron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
