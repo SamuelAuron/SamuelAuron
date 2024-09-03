@@ -7,9 +7,8 @@ My name is Samuel Dutra and my nickname is Auron!
 Atualmente trabalho com Técnico de Informática na Faculdade Ahanguera de Sobral/Ce.
 
 Sou formado em Ciência da Computação pela Universidade Estadual do Vale do Acarau e em Desnvolvimento Web pela Faculdade Anhanguera de Sobral.
-Possuo pós-graduação em Gestão ágil e desenvolvimento de software pela Anhanguera.
 
-Atualmente estou estudando ReactJs na RocketSeat.
+Estou estudando ReactJs.
 
 ## Estou aprendendo:
 https://icongr.am/devicon/git-original.svg?size=128&color=currentColor
