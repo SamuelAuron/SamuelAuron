@@ -7,8 +7,6 @@ Sou formado em Ciência da Computação pela Universidade Estadual do Vale do Ac
 
 Estou estudando `.HTML`, `.CSS`, `.JavaScript`, `.TypeScript` e `.React.js`.
 
-## Estou aprendendo:
-
 <!--
 **SamuelAuron/SamuelAuron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
