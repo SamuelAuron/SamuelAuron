@@ -5,6 +5,8 @@ Atualmente trabalho com Técnico de Informática.
 
 Sou formado em Ciência da Computação pela Universidade Estadual do Vale do Acarau e em Desnvolvimento Web pela Faculdade Anhanguera de Sobral.
 
+Atualmente procuro uma oportunidade para desenvolver softwares e sites profissionalmente.
+
 Estou estudando `.HTML`, `.CSS`, `.JavaScript`, `.TypeScript` e `.React.js`.
 
 <!--
