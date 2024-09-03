@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelauron&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelauron&theme=github_dark)
-
-
+<table align="left">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=samuelauron&layout=compact&theme=react'>
+    </td>
+    <td>
+      <img height='200' src='https://github-readme-stats.vercel.app/api?username=samuelauronshow_icons=true&theme=react'>
+    </td>
+  </row>
+</table> 
