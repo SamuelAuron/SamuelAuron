@@ -31,7 +31,7 @@ Here are some ideas to get you started:
       <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=samuelauron&layout=compact&theme=react'>
     </td>
     <td>
-      <img height='200' src='https://github-readme-stats.vercel.app/api?username=samuelauronshow_icons=true&theme=react'>
+      <img height='200' src='https://github-readme-stats.vercel.app/api?username=samuelauron&show_icons=true&theme=react'>
     </td>
   </row>
 </table> 
